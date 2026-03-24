@@ -29,8 +29,8 @@ Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
-
 ![alt text](img_2.png)
+
 
 ## COMMAND AND OUTPUT
 
@@ -48,7 +48,7 @@ Create the file hello.txt using echo and redirection
 
 Copy the file hello.txt into the file hello1.txt
 
- ![alt text](img_4-1.png)
+![alt text](img_4-1.png)
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
@@ -63,16 +63,13 @@ List out the file hello1.txt in the current directory
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
-
 ![alt text](img_7.png)
-
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
 
 ![alt text](img_8.png)
-
 ## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
@@ -107,8 +104,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-
 ![alt text](img_11.png)
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -120,8 +117,8 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-![alt text](img_12.png)
 
+![alt text](img_12.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
